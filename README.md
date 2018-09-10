@@ -1,7 +1,7 @@
-# nyc_taxi_trip
+# Predicting tip amount from NYC taxi trips data
 A playground with Pandas &amp; Keras to predict the tip amount in NYC Taxi
 
-This project has an jupyter notebook
+This project has a jupyter notebook
 
 ## TODO
-upload the project with full dataset
+uploading the project with full dataset
